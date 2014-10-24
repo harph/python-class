@@ -9,10 +9,13 @@
 + Running a Python program.
 + Comments (#).
 + Variables.
-    + Types (int, float, str, chr)
+    + Types (int, float, bool, str, chr)
         + String (Functions and operations).
-+ Basic operators (+, -, *, /).
-  + Decimal division.
++ Basic operators.
+    + Arithmetical operators (+, -, *, /, %, **, //).
+    + Comparison operators (==, !=, <>, <, >, <=, >=).
+    + Assignment operators (=, +=, -=, *=, /=, %=, **=, //=).
+    + Logical operators (and, or, not)
 + Type casting.
 + Range
 + Flow control
@@ -29,14 +32,17 @@
     + Append.
     + Insert.
     + Pop.
+    + Index.
+    + Reverse.
+    + Sort.
     + Iterate a list.
     + Enumerate.
     + List comprehension.
-
++ Tuples.
++ Sets.
 
 ## Lesson 3
 
-+ Tuples.
 + Dictionaries.
   + Dictionary comprehension.
 + Functions
