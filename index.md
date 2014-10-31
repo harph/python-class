@@ -4,8 +4,8 @@
 ## Lesson 1
 
 + Python 2.7 and Python 3.
-+ Python interactive mode.
 + Tabs vs spaces.
++ Python interactive mode.
 + Running a Python program.
 + Comments (#).
 + Variables.
@@ -17,16 +17,16 @@
     + Assignment operators (=, +=, -=, *=, /=, %=, **=, //=).
     + Logical operators (and, or, not)
 + Type casting.
-+ Range
-+ Flow control
-    + Conditionals (if / elif / else).
-    + For loops.
-    + While Loops.
-    + Pass, break and continue.
 
 
 ## Lesson 2
 
++ Range.
++ Flow control.
+    + Conditionals (if / elif / else).
+    + For loops.
+    + While Loops.
+    + Pass, break and continue.
 + List.
     + Index access.
     + Append.
@@ -38,36 +38,41 @@
     + Iterate a list.
     + Enumerate.
     + List comprehension.
-+ Tuples.
-+ Sets.
+
 
 ## Lesson 3
 
++ Tuples.
++ Sets.
 + Dictionaries.
-  + Dictionary comprehension.
+    + Dictionary comprehension.
+
+
+## Lesson 4
+
 + Functions
-  + Docstrings.
-  + Function as a variable (x = fn).
-  + Return.
-  + Arguments.
-  + Default argument values.
-  + Keyword arguments (fn(x-10, y=20))
-  + Optional arguments.
+    + Arguments.
+    + Return.
+    + Docstrings.
+    + Function as a variable (x = fn).
+    + Default argument values.
+    + Keyword arguments (fn(x-10, y=20))
+    + Optional arguments.
     + List (*args).
     + Keyword arguments (**kwargs).
 + Classes
-  + Class functions.
-  + Instances / objets.
-  + Class constructor.
-  + Class attributes vs instance attributes
-  + Inheritance
+    + Class functions.
+    + Instances / objets.
+    + Class constructor.
+    + Class attributes vs instance attributes
+    + Inheritance
 + Exceptions.
 + Imports.
 + `if __name__ == '__main__'`
 + Files (Read, write, append)
-  + Open.
-  + Flush.
-  + Close.
+    + Open.
+    + Flush.
+    + Close.
 + Data structures.
   + Matrix.
   + Trees.
